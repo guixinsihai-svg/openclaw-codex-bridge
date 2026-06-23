@@ -1,0 +1,52 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# PowerShell
+*.ps1xml
+*.pssc
+*.psrc
+*.clixml
+
+# Logs and runtime output
+logs/
+*.log
+*.trace
+*.tmp
+*.temp
+*.bak
+
+# Local task data
+tasks/
+results/
+state/
+queue/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+secrets/
+
+# Node.js, if examples are added later
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS and archive output
+*.zip
+*.7z
+*.rar
