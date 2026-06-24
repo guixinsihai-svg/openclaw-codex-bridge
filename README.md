@@ -200,3 +200,11 @@ openclaw-codex-bridge/
 OpenClaw Codex Bridge 是一个面向本地自动化用户的小型开源桥接项目，重点不是炫技，而是降低把聊天入口、自动化系统和 AI 编程工具串起来时的安全风险。项目通过任务编号、任务单文件、固定输出目录和安全文档，把“从 Telegram 到 Codex CLI”的流程变得更可审计、更容易复现，也更适合个人开发者和小团队维护。
 
 不要声称项目已经有大量用户、星标或下载量。申请是否成功取决于平台规则和项目实际质量，本项目不能保证一定通过。
+
+## Smoke Test
+
+运行最小结构检查：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\tests\smoke-test.ps1
+```

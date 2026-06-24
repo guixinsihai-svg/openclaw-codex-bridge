@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v0.2.1 - 2026-06-24
+
+Added:
+
+- Added minimal smoke test for repository structure.
+
 ## v0.2.0 - 2026-06-23
 
 MVP bridge runner update.
