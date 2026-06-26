@@ -145,6 +145,12 @@ PowerShell 调用形态：
 
 更多说明见 [examples/openclaw-command-example.md](examples/openclaw-command-example.md)。
 
+## Documentation
+
+- [OpenClaw command examples](docs/openclaw-command-examples.md)
+- [Safety guide](docs/safety.md)
+- [Architecture notes](docs/architecture.md)
+
 ## 安全警告
 
 不要做这些事：

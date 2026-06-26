@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v0.2.2 - 2026-06-26
+
+Added:
+
+* Added OpenClaw command examples documentation.
+
 ## v0.2.1 - 2026-06-24
 
 Added:
