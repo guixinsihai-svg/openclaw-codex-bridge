@@ -148,6 +148,7 @@ PowerShell 调用形态：
 ## Documentation
 
 - [OpenClaw command examples](docs/openclaw-command-examples.md)
+- [n8n workflow example](docs/n8n-workflow-example.md)
 - [Safety guide](docs/safety.md)
 - [Architecture notes](docs/architecture.md)
 
