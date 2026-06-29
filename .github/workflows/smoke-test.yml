@@ -1,0 +1,16 @@
+name: Smoke Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  smoke-test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run smoke test
+        shell: powershell
+        run: powershell -ExecutionPolicy Bypass -File .\tests\smoke-test.ps1

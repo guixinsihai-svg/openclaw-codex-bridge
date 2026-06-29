@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v0.2.4 - 2026-06-29
+
+Added:
+
+* Added GitHub Actions smoke test workflow.
+
 ## v0.2.3 - 2026-06-27
 
 Added:
