@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v0.2.5 - 2026-06-29
+
+Added:
+
+* Added Real Usage section to README.
+
 ## v0.2.4 - 2026-06-29
 
 Added:
